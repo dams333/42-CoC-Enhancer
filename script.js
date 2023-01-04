@@ -7,8 +7,8 @@
 // @match        https://www.codingame.com/clashofcode/*
 // @match        https://www.codingame.com/ide/*
 // @icon         https://www.google.com/s2/favicons?domain=42.fr
-// @downloadURL  https://gist.githubusercontent.com/dams333/1a3d38604a3e1f059aaa0f7ae3e25d08/raw/d0d5b6cafb23e6e07d85c2730b37729b8567cd80/42-CoC-enhancer.js
-// @updateURL    https://gist.githubusercontent.com/dams333/1a3d38604a3e1f059aaa0f7ae3e25d08/raw/d0d5b6cafb23e6e07d85c2730b37729b8567cd80/42-CoC-enhancer.js
+// @downloadURL  https://gist.githubusercontent.com/dams333/1a3d38604a3e1f059aaa0f7ae3e25d08/raw/42-CoC-enhancer.user.js
+// @updateURL    https://gist.githubusercontent.com/dams333/1a3d38604a3e1f059aaa0f7ae3e25d08/raw/42-CoC-enhancer.user.js
 // @grant        none
 // ==/UserScript==
 
