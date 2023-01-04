@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         CoC 42 enhancer
-// @namespace    http://tampermonkey.net/
+// @namespace    https://gist.githubusercontent.com/dams333/1a3d38604a3e1f059aaa0f7ae3e25d08/
 // @version      0.1
 // @description  Find your peer
 // @author       dhubleur
 // @match        https://www.codingame.com/clashofcode/*
 // @match        https://www.codingame.com/ide/*
 // @icon         https://www.google.com/s2/favicons?domain=42.fr
-// @downloadURL  https://raw.githubusercontent.com/dams333/42-CoC-Enhancer/main/script.js
-// @updateURL    https://raw.githubusercontent.com/dams333/42-CoC-Enhancer/main/script.js
+// @downloadURL  https://gist.githubusercontent.com/dams333/1a3d38604a3e1f059aaa0f7ae3e25d08/raw/d0d5b6cafb23e6e07d85c2730b37729b8567cd80/42-CoC-enhancer.js
+// @updateURL    https://gist.githubusercontent.com/dams333/1a3d38604a3e1f059aaa0f7ae3e25d08/raw/d0d5b6cafb23e6e07d85c2730b37729b8567cd80/42-CoC-enhancer.js
 // @grant        none
 // ==/UserScript==
 
