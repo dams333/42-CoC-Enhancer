@@ -6,7 +6,9 @@
 // @author       dhubleur
 // @match        https://www.codingame.com/clashofcode/*
 // @match        https://www.codingame.com/ide/*
-// @icon         https://www.google.com/s2/favicons?sz=64&domain=codepen.io
+// @icon         https://www.google.com/s2/favicons?domain=42.fr
+// @downloadURL  https://raw.githubusercontent.com/dams333/42-CoC-Enhancer/main/script.js
+// @updateURL    https://raw.githubusercontent.com/dams333/42-CoC-Enhancer/main/script.js
 // @grant        none
 // ==/UserScript==
 
